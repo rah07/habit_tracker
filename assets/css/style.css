@@ -2,6 +2,10 @@ body {
   font-family: 'Roboto Mono';
   background-color: #dfe3ee;
 }
+
+.card-header{
+  color: white;
+}
 .card{
 
   background: rgb(187, 187, 187) ;
